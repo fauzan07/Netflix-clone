@@ -339,7 +339,15 @@ span.things-text{
 
 @media screen and (max-width: 990px){
 
-
+    .banner-content{
+        position: relative;
+        width: 100%;
+        padding: 100px 0;
+        max-width: 950px;
+        margin: 0 auto;
+        text-align: center;
+        z-index: 1;
+    }
    
 }
 
