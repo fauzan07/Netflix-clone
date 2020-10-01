@@ -127,7 +127,7 @@
   <section class="faq py-5">
     <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8">
+      <div class="col-lg-9">
         <div class="faq-text">
         <h1 class="text-center pb-5">Frequently Asked Questions</h1>
         <div class="accordion" id="accordionExample">
@@ -210,7 +210,7 @@
       </div>
 
       <div class="row justify-content-center">
-        <div class="col-lg-7">
+        <div class="col-lg-8">
             <div class="faq-email pt-5 pb-3">
                 <h4 class="text-center">Ready to watch? Enter your email to create or restart your membership.</h4>
                 <form>
